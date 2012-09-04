@@ -74,5 +74,7 @@ Quest #6 - Write your memories
 ------------------------------
 
 What's your favorites skills ?
+
 Show us your dashboard!
+
 What would you do in your everyday work ?
