@@ -29,32 +29,50 @@ Learn stuff with Sonar 3
 
 Slides ares available here: www
 
+Now let's go. Take your favorite IDE and prepare to fight.
+
 Quest #1 - Fight the LCOM4
 --------------------------
 
-todo
+You have to find LCOM4 problem to solve.
+Remember the initial value and start refactoring.
+When you're done, launch a Sonar analysis and look if you improved the code.
+
+You must be able to teach what you learn!
 
 Quest #2 - Fight the Cyclomatic Complexity
 ------------------------------------------
 
-todo
+You have to find a high cyclomatic complexity problem to solve.
+Remember the initial value and start refactoring.
+When you're done, launch a Sonar analysis and look if you improved the code.
 
 Quest #3 - Fight the Tangle Package Index
 -----------------------------------------
 
-todo
+You have to find a dependency cycle problem to solve.
+Remember the initial value and start refactoring.
+When you're done, launch a Sonar analysis and look if you improved the code.
 
 Quest #4 - Build your own dashboard
 -----------------------------------
 
-todo
+Customize Sonar to adapt it to your needs:
+- You can add plugins
+- Add or remove widgets
+- Change violation levels
+- ...
 
-Quest #5 - Trap your enemies
-----------------------------
+Quest #5 - Trap your enemies / Outsmart the traps
+-------------------------------------------------
+Fork the repository
+In the petclinic project, add some booby trap (LCOM4, Package Tangle Index, Cyclomatic Complexity), push your traps and throw them to your enemies.
 
-todo
+Your enemies prepared some gifts for you! Clone their repositories and fix the bugs. Your custom dashboard should help you to identify the traps.
 
 Quest #6 - Write your memories
 ------------------------------
 
-todo
+What's your favorites skills ?
+Show us your dashboard!
+What would you do in your everyday work ?
