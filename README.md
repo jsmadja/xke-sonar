@@ -29,32 +29,32 @@ Learn stuff with Sonar 3
 
 Slides ares available here: www
 
-Exercice 1
-----------
+Quest #1 - Fight the LCOM4
+--------------------------
 
 todo
 
-Exercice 2
-----------
+Quest #2 - Fight the Cyclomatic Complexity
+------------------------------------------
 
 todo
 
-Exercice 3
-----------
+Quest #3 - Fight the Tangle Package Index
+-----------------------------------------
 
 todo
 
-Exercice 4
-----------
+Quest #4 - Build your own dashboard
+-----------------------------------
 
 todo
 
-Exercice 5
-----------
+Quest #5 - Trap your enemies
+----------------------------
 
 todo
 
+Quest #6 - Write your memories
+------------------------------
 
-
-
-
+todo
