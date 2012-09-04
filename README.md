@@ -8,7 +8,7 @@ Download sonar 3.2 at http://dist.sonar.codehaus.org/sonar-3.2.zip
 
 Clone the exercices
 
-`git clone `
+`git clone git://github.com/jsmadja/xke-sonar.git`
 
 Unpack Sonar 3.2 
 
