@@ -6,19 +6,19 @@ Prepare your stuff
 
 Download sonar 3.2 at http://dist.sonar.codehaus.org/sonar-3.2.zip
 
-Clone the exercices
+- *Clone the exercices*
 
 `git clone git://github.com/jsmadja/xke-sonar.git`
 
-Unpack Sonar 3.2 
+- *Unpack Sonar 3.2*
 
 `unzip sonar-3.2.zip`
 
-Start Sonar 
+- *Start Sonar*
 
 `sonar-3.2/bin/macosx-universal-64/sonar.sh start`
 
-Download whole universe with Maven 
+- *Download whole universe with Maven*
 
 `./sonar-all.sh`
 
