@@ -35,7 +35,9 @@ Quest #1 - Fight the LCOM4
 --------------------------
 
 You have to find LCOM4 problem to solve.
+
 Remember the initial value and start refactoring.
+
 When you're done, launch a Sonar analysis and look if you improved the code.
 
 You must be able to teach what you learn!
@@ -44,14 +46,18 @@ Quest #2 - Fight the Cyclomatic Complexity
 ------------------------------------------
 
 You have to find a high cyclomatic complexity problem to solve.
+
 Remember the initial value and start refactoring.
+
 When you're done, launch a Sonar analysis and look if you improved the code.
 
 Quest #3 - Fight the Tangle Package Index
 -----------------------------------------
 
 You have to find a dependency cycle problem to solve.
+
 Remember the initial value and start refactoring.
+
 When you're done, launch a Sonar analysis and look if you improved the code.
 
 Quest #4 - Build your own dashboard
